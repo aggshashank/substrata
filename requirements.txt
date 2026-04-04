@@ -1,0 +1,10 @@
+litellm
+chromadb
+pymupdf
+beautifulsoup4
+markdownify
+typer[all]
+textual
+loguru
+pydantic-settings
+python-dotenv

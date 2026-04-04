@@ -1,5 +1,15 @@
+# Substrata — local data (not committed)
 data/
 .env
 __pycache__/
 *.pyc
+*.pyo
 .chroma/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.db
+*.db-journal
+wiki/daily/
